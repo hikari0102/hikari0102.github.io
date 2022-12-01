@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "YeSeung Lee"
 description              : "데구 싫어"
 url                      : "https://hikari0102.github.io/"
-baseurl                  : "/"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hikari0102/hikari0102.github.io"
 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
